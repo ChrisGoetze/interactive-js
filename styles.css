@@ -1,0 +1,19 @@
+#linkList {
+	display: inline;
+}
+
+#firstNav {
+	background-color: #e3f2fd;
+}
+
+#colorList {
+	padding-top: 70px;
+}
+
+#navbarTogglerDemo02 {
+	float: right;
+}
+
+.navbar-brand, .nav-link {
+	font-family: 'Clicker Script', cursive;
+}

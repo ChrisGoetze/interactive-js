@@ -1,4 +1,4 @@
-var newColor = document.getElementsByTagName("li");
+var newColor = document.querySelectorAll(".toChange");
 
 changeColor();
 
